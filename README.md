@@ -1,1 +1,1 @@
-Repository for the map
+TAQA Global map

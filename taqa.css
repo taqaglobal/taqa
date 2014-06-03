@@ -1,0 +1,279 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  margin:0; 
+  padding:0;
+}
+
+#map { 
+  position:absolute; 
+  top:0; 
+  bottom:0; 
+  width:100%; 
+}
+
+.leaflet-popup {
+    display: none !important; 
+}
+
+.filter-icon {
+  background: url('images/filter-icons.png');
+  width: 25px; 
+  height: 25px;
+  float: left;
+  padding-right: 5px;
+}
+
+.office-icon {
+  background-position: -0px -0px; 
+  
+}
+
+.oil-gas-icon {
+  background-position: 0px -35px;
+}
+
+.power-icon {
+  background-position: 0px -70px;
+}
+
+.water-icon {
+  background-position: 0px -105px;
+}
+
+#map-ui {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    z-index: 100;
+}
+
+#map-ui ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#map-ui a {
+    font-size: 13px;
+    background: #a7a7a7;
+    color: #fff;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #d3d3d3;
+    border-bottom-width: 0;
+    min-width: 138px;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+#map-ui li:last-child a {
+    border-bottom-width: 1px;
+    -webkit-border-radius: 0 0 3px 3px;
+    border-radius: 0 0 3px 3px;
+}
+
+#map-ui li:first-child a {
+    -webkit-border-radius: 3px 3px 0 0;
+    border-radius: 3px 3px 0 0;
+}
+
+#map-ui a.active, #map-ui a:hover {
+    color: #fff;
+}
+
+#office.active, a#office:hover {
+    background: #7a1307;
+}
+
+#oil-gas.active, a#oil-gas:hover {
+    background: #ec6c25;
+}
+
+
+#power.active, a#power:hover {
+    background: #e63229;
+}
+
+#water.active, a#water:hover {
+    background: #ffa300;
+}
+
+#pop {
+  float:left;
+  width:30%; 
+  max-width:250px; 
+  padding:20px;
+  background:rgba(255,255,255,0.85);
+  position:absolute;
+  top:0; 
+  bottom:0; 
+  right:-100%; 
+}
+
+
+
+#info p, #info li  { 
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+#info h2 { 
+  margin-top:0; 
+  margin-bottom: 8px;
+  font-size: 30px;
+  line-height: 28px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+#info h3 { 
+  margin-top:0; 
+  margin-bottom: 5px;
+  font-size: 13px;
+  line-height: 15px;
+  font-weight: 700;
+}
+
+.office li a {
+  color:  #7a1307;
+}
+
+.office li a:hover {
+  color:  #7a1307;
+  border-bottom: 2px solid #7a1307;
+}
+
+.oil-gas li a {
+  color: #ec6c25;
+}
+
+.oil-gas li a:hover {
+  color: #ec6c25;
+  border-bottom: 2px solid #ec6c25;
+}
+
+.oil-gas a {
+  color: #ec6c25;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.oil-gas a:hover {
+  color: #ec6c25;
+  border-bottom: 2px solid #ec6c25;
+}
+
+.power li a {
+  color: #e63229;
+}
+
+.power li a:hover {
+  color: #e63229;
+  border-bottom: 2px solid #e63229;
+}
+
+.water li a {
+  color: #ffa300;
+}
+
+.water li a:hover {
+  color: #ffa300;
+  border-bottom: 2px solid #ffa300;
+}
+
+#info ul {
+  margin: 0;
+  padding: 0;
+}
+
+#info li {
+    list-style: none outside none;
+    display: inline-block;
+}
+
+#info li a {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+
+
+#info li:after {
+    content: "/";
+    margin-left: 4px;
+    margin-right:4px;
+}
+
+#info li:last-child:after {
+  content: '';
+}
+
+
+.embed-container { 
+  position: relative; 
+  padding-bottom: 56.25%; 
+  padding-top: 30px; 
+  height: 0; 
+  overflow: hidden; 
+  max-width: 100%; 
+  height: auto; 
+} 
+
+.top-image-container {
+  position:relative;
+  display:inline;
+}
+
+.top-image {
+  padding-bottom: 10px;
+  width: 100%;
+}
+
+.imtip {
+  position:absolute;
+  bottom:14px;
+  right:0;
+}
+
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed 
+counter-reset: 
+  { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+iframe {
+    overflow:hidden;
+}
+
+.close {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 18px;
+  color: #000000;
+  text-shadow: 0 1px 0 #ffffff;
+  opacity: 0.4;
+  filter: alpha(opacity=20);
+  text-decoration: none;
+  padding-bottom: 10px;
+  float:right;
+}
+
+.close:hover {
+  color: #000000;
+  text-decoration: none;
+  opacity: 0.7;
+  filter: alpha(opacity=40);
+  cursor: pointer;
+}
+            
+
+            
