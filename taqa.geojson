@@ -6,7 +6,7 @@
       "properties": {
         "title": "Power Plant",
         "country": "Morocco",
-        "description": "<p>The Jorf Lasfar Power Plant supplies more than half of Morocco's demand of electricity and 30% of the installed capacity. With 480 employees and six production units, two of which are currently being delivered, it is the largest independent coal-fired power station in the MENA region and the main supplier of the Office National de l'Electricité et de l'Eau Potable (ONEE).</p><ul><li><a href='#'>Find out more</a></li></ul>",
+        "description": "<p>The Jorf Lasfar Power Plant supplies more than half of Morocco’s demand of electricity and 30% of the installed capacity. It is the largest independent coal-fired power station in the MENA region and the main supplier of the Office National de l'Electricité et de l'Eau Potable (ONEE).</p><ul><li><a href='#'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-morocco.jpg'>"
       },
@@ -23,7 +23,7 @@
       "properties": {
         "title": "Power Plant",
         "country": "Ghana",
-        "description": "<p>TAQA has a 90 per cent ownership interest in the Takoradi 2 plant, which generates electricity from a variety of fuels including tri-fuel compatible natural gas, fuel oil or distillate-light crude. The remaining 10% owned by the Volta River Authority (VRA), which is a state-owned entity. All power produced from the Takoradi 2 facility is sold under a 25-year PPA with the VRA. </p><ul><li><a href='#'>Find out more</a></li></ul>",
+        "description": "<p>TAQA has a 90% ownership interest in the Takoradi 2 plant, which generates electricity from a variety of fuels including tri-fuel compatible natural gas, fuel oil or distillate-light crude. The remaining 10% is owned by the Volta River Authority (VRA), which is a state-owned entity. All power produced from the Takoradi 2 facility is sold under a 25-year PPA with the VRA.</p><ul><li><a href='#'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-ghana.jpg'>"
       },
@@ -125,7 +125,7 @@
       "properties": {
         "title": "ST-CMS Electric Company Pvt Ltd ",
         "country": "India",
-        "description": "<p>TAQA owns and operates a 250 MW lignite-fired power plant in the state of Tamil Nadu. In India TAQA also has a majority interest in a 100 MW hydro-electric plant at Sorang, and plans to acquire interests in the Baspa Stage II and Karcham Wangtoo plants, which have a joint capacity of 1,391 MW. All three plants are in the northern state of Himachal Pradesh.</p><ul><li><a href='#'>Overview</a></li><li><a href='#'>News</a></li><li><a href='#'>Jobs</a></li><li><a href='#'>Contacts</a></li></ul>",
+        "description": "<p>TAQA owns and operates a 250 MW lignite-fired power plant in the state of Tamil Nadu. In India TAQA also has an interest in a 100 MW hydro-electric project at Sorang in the northern state of Himachal Pradesh.</p><ul><li><a href='#'>Overview</a></li><li><a href='#'>News</a></li><li><a href='#'>Jobs</a></li><li><a href='#'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-india.jpg'>"
       },
@@ -210,7 +210,7 @@
       "properties": {
         "title": "Power Plant",
         "country": "Saudi Arabia",
-        "description": "<p>TAQA has a 25 per cent interest in the Jubail power plant. The 250 MW co-generation facility delivers power and steam to the SADAF Petrochemical Plant.</p><ul><li><a href='#'>Find out more</a></li></ul>",
+        "description": "<p>TAQA has a 25% interest in the Jubail power plant. The 250 MW co-generation facility delivers power and steam to the SADAF Petrochemical Plant.</p><ul><li><a href='#'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-saudi.jpg'>"
       },
@@ -225,26 +225,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Power Plant",
-        "country": "Iraq",
-        "description": "<p>TAQA holds a 50% interest in the 1,000 MW Sulaymaniyah gas-fired power plant.</p><ul><li><a href='#'>Find out more</a></li></ul>",
-        "type": "power",
-        "image": "<img class='top-image' src='images/power-iraq.jpg'>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.433333,
-          35.55
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Oil and gas exploration and production",
+        "title": "Oil and gas exploration, production and transport",
         "country": "United Kingdom",
-        "description": "<p>TAQA operates five platforms which produce from 13 fields spread across the Northern North Sea and the Central North Sea and it also owns equity in fields which are operated by others in the Central North Sea.</p><ul><li><a href='#'>Find out more</a></li></ul>",
+        "description": "<p>TAQA operates five platforms which produce from 13 fields spread across the Northern North Sea and the Central North Sea. TAQA also has interests in partner-operated assets and is the operator of the Brent Pipeline.</p><ul><li><a href='#'>Find out more</a></li></ul>",
         "type": "oil-gas",
         "image": "<img class='top-image' src='images/oil-gas-uk.jpg'>"
       },
@@ -274,9 +257,9 @@
     },{
       "type": "Feature",
       "properties": {
-        "title": "Oil and gas exploration and production",
+        "title": "Gas storage and oil and gas exploration and production",
         "country": "Netherlands",
-        "description": "<p>TAQA’s operations in the Netherlands focus on strategic energy infrastructure projects and the exploration and production of oil and gas, both onshore and offshore.</p><p><a href='#'>Gas Storage Bergermeer</a> is Europe’s largest, open-access gas storage.</p><ul><li><a href='#'>Find out more</a></li></ul>",
+        "description": "<p>TAQA’s operations in the Netherlands focus on strategic energy infrastructure projects such as underground gas storage and the exploration and production of oil and gas, both onshore and offshore.</p><p><a href='#'>Gas Storage Bergermeer</a> is set to become Europe’s largest, open-access gas storage.</p><ul><li><a href='#'>Find out more</a></li></ul>",
         "type": "oil-gas",
         "image": "<img class='top-image' src='images/oil-gas-netherlands.jpg'>"
       },
@@ -327,7 +310,7 @@
       "properties": {
         "title": "Power Plant and Aluminium Smelter",
         "country": "Oman",
-        "description": "<p>TAQA owns a 40 per cent stake in the Sohar Aluminium smelter and 1,000MW power generation facility supplying most of its output to the smelter.</p><ul><li><a href='#'>Find out more</a></li></ul>",
+        "description": "<p>TAQA owns a 40% stake in the Sohar Aluminium smelter and 1,000MW power generation facility supplying most of its output to the smelter.</p><ul><li><a href='#'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-oman.jpg'>"
       },
