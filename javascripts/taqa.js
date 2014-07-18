@@ -1,6 +1,6 @@
 
 // Load the map
-var map = L.mapbox.map('map', 'robertocarroll.taqa-3', {
+var map = L.mapbox.map('map', 'taqaglobal.taqa-3', {
     minZoom: 2,
     maxZoom: 4,
     maxBounds: [[-85, -190.0],[85, 190.0]],
