@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.658860506766083,
-          4.972004550559192
+          -1.658592,
+          4.971586
         ]
       }
     },
@@ -47,8 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.766667,
-          4.900000
+          -1.658592,
+          4.971586
         ]
       }
     },
@@ -98,8 +98,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.058101,
-          51.045325
+          -114.068558,
+          51.049496
         ]
       }
     },
@@ -123,7 +123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "ST-CMS Electric Company Pvt Ltd ",
+        "title": "ST-CMS Electric Company Pvt Ltd",
         "country": "India",
         "description": "<p>TAQA owns and operates a 250 MW lignite-fired power plant in the state of Tamil Nadu. In India TAQA also has an interest in a 100 MW hydro-electric project at Sorang in the northern state of Himachal Pradesh.</p><ul><li><a href='#'>Overview</a></li><li><a href='#'>News</a></li><li><a href='#'>Jobs</a></li><li><a href='#'>Contacts</a></li></ul>",
         "type": "office",
@@ -159,15 +159,15 @@
       "properties": {
         "title": "TAQA Energy BV",
         "country": "Netherlands",
-        "description": "<p>TAQA’s Netherlands business focusses on developing and operating gas storage facilities and other oil and gas infrastructure to improve security of energy supply in Northwest Europe. TAQA is also developing various gas and other energy technologies and establishing an energy innovation centre near the Dutch city of Alkmaar. </p><ul><li><a href='#'>Overview</a></li><li><a href='#'>News</a></li><li><a href='#'>Jobs</a></li><li><a href='#'>Contacts</a></li></ul>",
+        "description": "<p>TAQA’s Netherlands business focuses on developing and operating gas storage facilities and other oil and gas infrastructure to improve security of energy supply in Northwest Europe. TAQA is also developing various gas and other energy technologies and establishing an energy innovation centre near the Dutch city of Alkmaar. </p><ul><li><a href='#'>Overview</a></li><li><a href='#'>News</a></li><li><a href='#'>Jobs</a></li><li><a href='#'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-netherlands.jpg'>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3007,
-          52.070498
+          4.337329,
+          52.078812
         ]
       }
     },
@@ -183,8 +183,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.277129,
-          57.155623
+          -2.282226,
+          57.144744
         ]
       }
     },
@@ -193,15 +193,15 @@
       "properties": {
         "title": "TAQA North Africa",
         "country": "Morocco",
-        "description": "<p>Jorf Lasfar Energy Company (JLEC), TAQA’s Moroccan subsidiary, delivers approximately 50% of Morocco's electricity demand with a power generation capacity of 2,056 MW. </p><ul><li><a href='#'>Overview</a></li><li><a href='#'>News</a></li><li><a href='#'>Jobs</a></li><li><a href='#'>Contacts</a></li></ul>",
+        "description": "<p>Jorf Lasfar Energy Company (JLEC), TAQA’s Moroccan subsidiary, delivers approximately 50% of Morocco's electricity demand with a power generation capacity of 2,056 MW.</p><ul><li><a href='#'>Overview</a></li><li><a href='#'>News</a></li><li><a href='#'>Jobs</a></li><li><a href='#'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-morocco.jpg'>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.658316,
-          33.515561
+          -7.659461,
+          33.513101
         ]
       }
     },
@@ -245,7 +245,7 @@
         "country": "North America",
         "description": "<p>TAQA’s North American oil and gas business is headquartered in Calgary and is focused on conventional oil and gas production in the Western Canada sedimentary basin and the North West United States.</p><ul><li><a href='#'>Find out more</a></li></ul>",
         "type": "oil-gas",
-        "image": "<img class='top-image' src='images/office-north-america.jpg'>"
+        "image": "<img class='top-image' src='images/oil-gas-north-america.jpg'>"
       },
       "geometry": {
         "type": "Point",
@@ -300,8 +300,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.009167,
-          36.191111  
+          43.9717589,
+          36.2010827  
         ]
       }
     },
@@ -366,8 +366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.389085,
-          24.498438
+          54.389463,
+          24.500547
         ]
       }
     }
