@@ -6,7 +6,7 @@
       "properties": {
         "title": "Power Plant",
         "country": "Morocco",
-        "description": "<p>The Jorf Lasfar Power Plant supplies more than half of Morocco’s demand of electricity and 30% of the installed capacity. It is the largest independent coal-fired power station in the MENA region and the main supplier of the Office National de l'Electricité et de l'Eau Potable (ONEE).</p><ul><li><a href='#'>Find out more</a></li></ul>",
+        "description": "<p>The Jorf Lasfar Power Plant supplies more than half of Morocco’s demand of electricity and 30% of the installed capacity. It is the largest independent coal-fired power station in the MENA region and the main supplier of the Office National de l'Electricité et de l'Eau Potable (ONEE).</p><ul><li><a href='/relativelink'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-morocco.jpg'>"
       },
@@ -47,8 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.658592,
-          4.971586
+          -1.766667,
+          4.9
         ]
       }
     },
@@ -238,7 +238,8 @@
           59.489726035537075
         ]
       }
-    },{
+    },
+    {
       "type": "Feature",
       "properties": {
         "title": "Oil and gas exploration and production",
@@ -254,7 +255,8 @@
           52.908902047770255
         ]
       }
-    },{
+    },
+    {
       "type": "Feature",
       "properties": {
         "title": "Gas storage and oil and gas exploration and production",
@@ -300,8 +302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.9717589,
-          36.2010827  
+          44.009167,
+          36.191111
         ]
       }
     },
@@ -321,7 +323,8 @@
           24.086589258228027
         ]
       }
-    },{
+    },
+    {
       "type": "Feature",
       "properties": {
         "title": "Desalination facilities",
@@ -337,7 +340,8 @@
           24.58833910753816
         ]
       }
-    },{
+    },
+    {
       "type": "Feature",
       "properties": {
         "title": "Power generation facilities",
