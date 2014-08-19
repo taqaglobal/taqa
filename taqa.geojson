@@ -1,4 +1,4 @@
-2{
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -159,7 +159,7 @@
       "properties": {
         "title": "TAQA Energy BV",
         "country": "Netherlands",
-        "description": "<p>TAQA’s Netherlands business focuses on developing and operating gas storage facilities and other oil and gas infrastructure to improve security of energy supply in Northwest Europe. TAQA is also developing various gas and other energy technologies and establishing an energy innovation centre near the Dutch city of Alkmaar. </p><ul><li><a href='http://taqaglobal.com/our-regions/netherlands/overview?sc_lang=en'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=netherland&category=*&year=*'>News</a></li><li><a href='http://taqaglobal.com/our-regions/netherlands/contact-us?sc_lang=en'>Contacts</a></li></ul>",
+        "description": "<p>TAQA’s Netherlands business focuses on developing and operating gas storage facilities and other oil and gas infrastructure to improve security of energy supply in Northwest Europe. TAQA is also developing various gas and other energy technologies and establishing an energy innovation centre near the Dutch city of Alkmaar. </p><ul><li><a href='http://taqaglobal.com/our-regions/netherlands/overview?sc_lang=en'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=netherlands&category=*&year=*'>News</a></li><li><a href='http://taqaglobal.com/our-regions/netherlands/contact-us?sc_lang=en'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-netherlands.jpg'>"
       },
