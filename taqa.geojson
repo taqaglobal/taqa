@@ -23,7 +23,7 @@
       "properties": {
         "title": "Power Plant",
         "country": "Ghana",
-        "description": "<p>TAQA has a 90% ownership interest in the Takoradi 2 plant, which generates electricity from a variety of fuels including tri-fuel compatible natural gas, fuel oil or distillate-light crude. The remaining 10% is owned by the Volta River Authority (VRA), which is a state-owned entity. All power produced from the Takoradi 2 facility is sold under a 25-year PPA with the VRA.</p><ul><li><a href='http://taqaglobal.com/our-regions/ghana/power?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>TAQA has a 90% ownership interest in the Takoradi 2 plant, which generates electricity from a variety of fuels including tri-fuel compatible natural gas, fuel oil or distillate-light crude. The remaining 10% is owned by the Volta River Authority (VRA), which is a state-owned entity. All power produced from the Takoradi 2 facility is sold under a 25-year PPA with the VRA.</p><ul><li><a href='http://taqaglobal.com/our-regions/ghana/power?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-ghana.jpg'>"
       },
@@ -40,7 +40,7 @@
       "properties": {
         "title": "TAQA Generation International Operating Co. LLC",
         "country": "Ghana",
-        "description": "<p>TAQA operates a 220 MW simple-cycle power plant located at Takoradi, 220km west of Accra.</p><ul><li><a href='http://taqaglobal.com/our-regions/ghana/overview?sc_lang=en'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=ghana&category=*&year=*'>News</a></li><li><a href='http://taqaglobal.com/our-regions/ghana/contact-us?sc_lang=en'>Contacts</a></li></ul>",
+        "description": "<p>TAQA operates a 220 MW simple-cycle power plant located at Takoradi, 220km west of Accra.</p><ul><li><a href='http://taqaglobal.com/our-regions/ghana/overview?sc_lang=en' target='_top'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=ghana&category=*&year=*' target='_top'>News</a></li><li><a href='http://taqaglobal.com/our-regions/ghana/contact-us?sc_lang=en' target='_top'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-ghana.jpg'>"
       },
@@ -57,7 +57,7 @@
       "properties": {
         "title": "Power Plant",
         "country": "United States",
-        "description": "<p>The Red Oak power generation facility is in Sayerville, New Jersey, and TAQA owns 85 per cent of the Tolling Agreement for the facility through its subsidiary TAQA Gen-X, with partner Morgan Stanley, owning the remaining 15 per cent. The Red Oak facility is a combined cycle power generation facility of approximately 832 MW owned and operated by AES Red Oak LLC. </p><ul><li><a href='http://taqaglobal.com/our-regions/north-america/power?sc_lang=en?snapid=red-oak-power-plant'>Find out more</a></li></ul>",
+        "description": "<p>The Red Oak power generation facility is in Sayerville, New Jersey, and TAQA owns 85 per cent of the Tolling Agreement for the facility through its subsidiary TAQA Gen-X, with partner Morgan Stanley, owning the remaining 15 per cent. The Red Oak facility is a combined cycle power generation facility of approximately 832 MW owned and operated by AES Red Oak LLC. </p><ul><li><a href='http://taqaglobal.com/our-regions/north-america/power?sc_lang=en?snapid=red-oak-power-plant' target='_top'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-united-states-1.jpg'>"
       },
@@ -74,7 +74,7 @@
       "properties": {
         "title": "Wind Power Plant",
         "country": "United States",
-        "description": "<p>The Lakefield wind project, located in Jackson County, Minnesota, consists of 137 General Electric 1.5 MW wind turbines with the capacity to generate 205.5 MW of emissions-free electricity for more than 68,000 homes.</p><ul><li><a href='http://taqaglobal.com/our-regions/north-america/power?sc_lang=en?snapid=lakefield-wind-project'>Find out more</a></li></ul>",
+        "description": "<p>The Lakefield wind project, located in Jackson County, Minnesota, consists of 137 General Electric 1.5 MW wind turbines with the capacity to generate 205.5 MW of emissions-free electricity for more than 68,000 homes.</p><ul><li><a href='http://taqaglobal.com/our-regions/north-america/power?sc_lang=en?snapid=lakefield-wind-project' target='_top'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-united-states-2.jpg'>"
       },
@@ -91,7 +91,7 @@
       "properties": {
         "title": "TAQA North Ltd",
         "country": "North America",
-        "description": "<p>TAQA’s North American oil and gas business is headquartered in Calgary, Canada and focused on conventional oil and gas exploration and production. In the United States, TAQA has oil and gas interests in three North Western states. It also has interests in power generation through a gas-fired power station tolling agreement on the East coast and a Mid-West wind farm.</p><ul><li><a href='http://taqaglobal.com/our-regions/north-america/overview?sc_lang=en'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=north-america&category=*&year=*'>News</a></li><li><a href='http://taqaglobal.com/our-regions/north-america/contact-us?sc_lang=en'>Contacts</a></li></ul>",
+        "description": "<p>TAQA’s North American oil and gas business is headquartered in Calgary, Canada and focused on conventional oil and gas exploration and production. In the United States, TAQA has oil and gas interests in three North Western states. It also has interests in power generation through a gas-fired power station tolling agreement on the East coast and a Mid-West wind farm.</p><ul><li><a href='http://taqaglobal.com/our-regions/north-america/overview?sc_lang=en' target='_top'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=north-america&category=*&year=*' target='_top'>News</a></li><li><a href='http://taqaglobal.com/our-regions/north-america/contact-us?sc_lang=en' target='_top'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-north-america.jpg'>"
       },
@@ -108,7 +108,7 @@
       "properties": {
         "title": "Power Plant",
         "country": "India",
-        "description": "<p>TAQA owns a 250MW lignite-fired power plant and adjoining open-cast lignite mine located in Neyveli, in the state of Tamil Nadu.</p><ul><li><a href='http://taqaglobal.com/our-regions/india/power?sc_lang=en?snapid=lignite-fired-power-plant'>Find out more</a></li></ul>",
+        "description": "<p>TAQA owns a 250MW lignite-fired power plant and adjoining open-cast lignite mine located in Neyveli, in the state of Tamil Nadu.</p><ul><li><a href='http://taqaglobal.com/our-regions/india/power?sc_lang=en?snapid=lignite-fired-power-plant' target='_top'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-india-1.jpg'>"
       },
@@ -125,7 +125,7 @@
       "properties": {
         "title": "ST-CMS Electric Company Pvt Ltd",
         "country": "India",
-        "description": "<p>TAQA owns and operates a 250 MW lignite-fired power plant in the state of Tamil Nadu. In India TAQA also has an interest in a 100 MW hydro-electric project at Sorang in the northern state of Himachal Pradesh.</p><ul><li><a href='http://taqaglobal.com/our-regions/india/overview?sc_lang=en'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=india&category=*&year=*'>News</a></li><li><a href='http://taqaglobal.com/our-regions/india/contact-us?sc_lang=en'>Contacts</a></li></ul>",
+        "description": "<p>TAQA owns and operates a 250 MW lignite-fired power plant in the state of Tamil Nadu. In India TAQA also has an interest in a 100 MW hydro-electric project at Sorang in the northern state of Himachal Pradesh.</p><ul><li><a href='http://taqaglobal.com/our-regions/india/overview?sc_lang=en' target='_top'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=india&category=*&year=*' target='_top'>News</a></li><li><a href='http://taqaglobal.com/our-regions/india/contact-us?sc_lang=en' target='_top'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-india.jpg'>"
       },
@@ -142,7 +142,7 @@
       "properties": {
         "title": "Hydro Power Plant",
         "country": "India",
-        "description": "<p>TAQA has an interest in Himachal Sorang Power Limited (HSPL), the developer of a 100 megawatt (MW) hydro-electric plant in the northern Indian state of Himachal Pradesh. TAQA holds a majority stake in the joint venture.</p><ul><li><a href='http://taqaglobal.com/our-regions/india/power?sc_lang=en?snapid=hydro-electric-plant'>Find out more</a></li></ul>",
+        "description": "<p>TAQA has an interest in Himachal Sorang Power Limited (HSPL), the developer of a 100 megawatt (MW) hydro-electric plant in the northern Indian state of Himachal Pradesh. TAQA holds a majority stake in the joint venture.</p><ul><li><a href='http://taqaglobal.com/our-regions/india/power?sc_lang=en?snapid=hydro-electric-plant' target='_top'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-india-2.jpg'>"
       },
@@ -159,7 +159,7 @@
       "properties": {
         "title": "TAQA Energy BV",
         "country": "Netherlands",
-        "description": "<p>TAQA’s Netherlands business focuses on developing and operating gas storage facilities and other oil and gas infrastructure to improve security of energy supply in Northwest Europe. TAQA is also developing various gas and other energy technologies and establishing an energy innovation centre near the Dutch city of Alkmaar. </p><ul><li><a href='http://taqaglobal.com/our-regions/netherlands/overview?sc_lang=en'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=netherlands&category=*&year=*'>News</a></li><li><a href='http://taqaglobal.com/our-regions/netherlands/contact-us?sc_lang=en'>Contacts</a></li></ul>",
+        "description": "<p>TAQA’s Netherlands business focuses on developing and operating gas storage facilities and other oil and gas infrastructure to improve security of energy supply in Northwest Europe. TAQA is also developing various gas and other energy technologies and establishing an energy innovation centre near the Dutch city of Alkmaar. </p><ul><li><a href='http://taqaglobal.com/our-regions/netherlands/overview?sc_lang=en' target='_top'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=netherlands&category=*&year=*' target='_top'>News</a></li><li><a href='http://taqaglobal.com/our-regions/netherlands/contact-us?sc_lang=en' target='_top'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-netherlands.jpg'>"
       },
@@ -176,7 +176,7 @@
       "properties": {
         "title": "TAQA Bratani Limited",
         "country": "United Kingdom",
-        "description": "<p>TAQA operates five production platforms which produce oil and gas from 13 fields in the UK North Sea. TAQA also has interests in partner-operated assets and is the operator of the Brent Pipeline.</p><ul><li><a href='http://taqaglobal.com/our-regions/uk/overview?sc_lang=en'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=uk&category=*&year=*'>News</a></li><li><a href='http://taqaglobal.com/our-regions/uk/contact-us?sc_lang=en'>Contacts</a></li></ul>",
+        "description": "<p>TAQA operates five production platforms which produce oil and gas from 13 fields in the UK North Sea. TAQA also has interests in partner-operated assets and is the operator of the Brent Pipeline.</p><ul><li><a href='http://taqaglobal.com/our-regions/uk/overview?sc_lang=en' target='_top'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=uk&category=*&year=*' target='_top'>News</a></li><li><a href='http://taqaglobal.com/our-regions/uk/contact-us?sc_lang=en' target='_top'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-united-kingdom.jpg'>"
       },
@@ -193,7 +193,7 @@
       "properties": {
         "title": "TAQA North Africa",
         "country": "Morocco",
-        "description": "<p>Jorf Lasfar Energy Company (JLEC), TAQA’s Moroccan subsidiary, delivers approximately 50% of Morocco's electricity demand with a power generation capacity of 2,056 MW.</p><ul><li><a href='http://taqaglobal.com/our-regions/morocco/overview?sc_lang=en'>Overview</a></li><li><a href='http://www.taqamorocco.ma/en/actualites.aspx'>News</a></li><li><a href='http://taqaglobal.com/our-regions/morocco/contact-us?sc_lang=en'>Contacts</a></li></ul>",
+        "description": "<p>Jorf Lasfar Energy Company (JLEC), TAQA’s Moroccan subsidiary, delivers approximately 50% of Morocco's electricity demand with a power generation capacity of 2,056 MW.</p><ul><li><a href='http://taqaglobal.com/our-regions/morocco/overview?sc_lang=en' target='_top'>Overview</a></li><li><a href='http://www.taqamorocco.ma/en/actualites.aspx' target='_top'>News</a></li><li><a href='http://taqaglobal.com/our-regions/morocco/contact-us?sc_lang=en' target='_top'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-morocco.jpg'>"
       },
@@ -210,7 +210,7 @@
       "properties": {
         "title": "Power Plant",
         "country": "Saudi Arabia",
-        "description": "<p>TAQA has a 25% interest in the Jubail power plant. The 250 MW co-generation facility delivers power and steam to the SADAF Petrochemical Plant.</p><ul><li><a href='http://taqaglobal.com/our-regions/saudi-arabia/overview?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>TAQA has a 25% interest in the Jubail power plant. The 250 MW co-generation facility delivers power and steam to the SADAF Petrochemical Plant.</p><ul><li><a href='http://taqaglobal.com/our-regions/saudi-arabia/overview?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-saudi.jpg'>"
       },
@@ -227,7 +227,7 @@
       "properties": {
         "title": "Oil and gas exploration, production and transport",
         "country": "United Kingdom",
-        "description": "<p>TAQA operates five platforms which produce from 13 fields spread across the Northern North Sea and the Central North Sea. TAQA also has interests in partner-operated assets and is the operator of the Brent Pipeline.</p><ul><li><a href='http://taqaglobal.com/our-regions/uk/oil-and-gas?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>TAQA operates five platforms which produce from 13 fields spread across the Northern North Sea and the Central North Sea. TAQA also has interests in partner-operated assets and is the operator of the Brent Pipeline.</p><ul><li><a href='http://taqaglobal.com/our-regions/uk/oil-and-gas?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "oil-gas",
         "image": "<img class='top-image' src='images/oil-gas-uk.jpg'>"
       },
@@ -244,7 +244,7 @@
       "properties": {
         "title": "Oil and gas exploration and production",
         "country": "North America",
-        "description": "<p>TAQA’s North American oil and gas business is headquartered in Calgary and is focused on conventional oil and gas production in the Western Canada sedimentary basin and the North West United States.</p><ul><li><a href='http://taqaglobal.com/our-regions/north-america/oil-and-gas?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>TAQA’s North American oil and gas business is headquartered in Calgary and is focused on conventional oil and gas production in the Western Canada sedimentary basin and the North West United States.</p><ul><li><a href='http://taqaglobal.com/our-regions/north-america/oil-and-gas?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "oil-gas",
         "image": "<img class='top-image' src='images/oil-gas-north-america.jpg'>"
       },
@@ -261,7 +261,7 @@
       "properties": {
         "title": "Gas storage and oil and gas exploration and production",
         "country": "Netherlands",
-        "description": "<p>TAQA’s operations in the Netherlands focus on strategic energy infrastructure projects such as underground gas storage and the exploration and production of oil and gas, both onshore and offshore.</p><p><a href='http://taqaglobal.com/our-regions/netherlands/gas-storage/gas-storage-bergermeer?sc_lang=en'>Gas Storage Bergermeer</a> is set to become Europe’s largest, open-access gas storage.</p><ul><li><a href='http://taqaglobal.com/our-regions/netherlands/oil-and-gas?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>TAQA’s operations in the Netherlands focus on strategic energy infrastructure projects such as underground gas storage and the exploration and production of oil and gas, both onshore and offshore.</p><p><a href='http://taqaglobal.com/our-regions/netherlands/gas-storage/gas-storage-bergermeer?sc_lang=en' target='_top'>Gas Storage Bergermeer</a> is set to become Europe’s largest, open-access gas storage.</p><ul><li><a href='http://taqaglobal.com/our-regions/netherlands/oil-and-gas?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "oil-gas",
         "image": "<img class='top-image' src='images/oil-gas-netherlands.jpg'>"
       },
@@ -278,7 +278,7 @@
       "properties": {
         "title": "Oil and gas exploration",
         "country": "Iraq",
-        "description": "<p>TAQA operates the 270-sq-km Atrush Block, located 85km northwest of Erbil in Iraq.</p><ul><li><a href='http://taqaglobal.com/our-regions/iraq/oil-and-gas?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>TAQA operates the 270-sq-km Atrush Block, located 85km northwest of Erbil in Iraq.</p><ul><li><a href='http://taqaglobal.com/our-regions/iraq/oil-and-gas?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "oil-gas",
         "image": "<img class='top-image' src='images/oil-gas-iraq.jpg'>"
       },
@@ -295,7 +295,7 @@
       "properties": {
         "title": "TAQA Atrush BV",
         "country": "Iraq",
-        "description": "<p>TAQA has secured oil and gas exploration rights in the new Atrush field in the Kurdistan region of Iraq. Located 85 km northwest of Erbil, an average daily production of 30,000 boed is expected by early 2015.</p><ul><li><a href='http://taqaglobal.com/our-regions/iraq/overview?sc_lang=en'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=iraq&category=*&year=*'>News</a></li><li><a href='http://taqaglobal.com/our-regions/iraq/contact-us?sc_lang=en'>Contacts</a></li></ul>",
+        "description": "<p>TAQA has secured oil and gas exploration rights in the new Atrush field in the Kurdistan region of Iraq. Located 85 km northwest of Erbil, an average daily production of 30,000 boed is expected by early 2015.</p><ul><li><a href='http://taqaglobal.com/our-regions/iraq/overview?sc_lang=en' target='_top'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=iraq&category=*&year=*' target='_top'>News</a></li><li><a href='http://taqaglobal.com/our-regions/iraq/contact-us?sc_lang=en' target='_top'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-iraq.jpg'>"
       },
@@ -312,7 +312,7 @@
       "properties": {
         "title": "Power Plant and Aluminium Smelter",
         "country": "Oman",
-        "description": "<p>TAQA owns a 40% stake in the Sohar Aluminium smelter and 1,000MW power generation facility supplying most of its output to the smelter.</p><ul><li><a href='http://taqaglobal.com/our-regions/oman/overview?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>TAQA owns a 40% stake in the Sohar Aluminium smelter and 1,000MW power generation facility supplying most of its output to the smelter.</p><ul><li><a href='http://taqaglobal.com/our-regions/oman/overview?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-oman.jpg'>"
       },
@@ -329,7 +329,7 @@
       "properties": {
         "title": "Desalination facilities",
         "country": "United Arab Emirates",
-        "description": "<p>TAQA has eight operational power generation and desalination facilities across the UAE with a total desalination capacity of 887 million imperial gallons per day (MIGD).</p><ul><li><a href='http://taqaglobal.com/our-regions/uae/water?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>TAQA has eight operational power generation and desalination facilities across the UAE with a total desalination capacity of 887 million imperial gallons per day (MIGD).</p><ul><li><a href='http://taqaglobal.com/our-regions/uae/water?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "water",
         "image": "<img class='top-image' src='images/water-uae.jpg'>"
       },
@@ -346,7 +346,7 @@
       "properties": {
         "title": "Power generation facilities",
         "country": "United Arab Emirates",
-        "description": "<p>TAQA has eight operational power generation and desalination facilities across the UAE with a total power generation capacity of 12,497 MW.</p><ul><li><a href='http://taqaglobal.com/our-regions/uae/power?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>TAQA has eight operational power generation and desalination facilities across the UAE with a total power generation capacity of 12,497 MW.</p><ul><li><a href='http://taqaglobal.com/our-regions/uae/power?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-uae.jpg'>"
       },
@@ -363,7 +363,7 @@
       "properties": {
         "title": "Abu Dhabi National Energy Company PJSC (TAQA) Headquarters",
         "country": "United Arab Emirates",
-        "description": "<p><strong>TAQA's headquarters are in Abu Dhabi.</strong></p><p>TAQA, through its majority ownership interests in eight UAE power and water production facilities, provides more than 98% of the electricity and water requirements of the Emirate of Abu Dhabi. </p><ul><li><a href='http://taqaglobal.com/our-regions/uae/overview?sc_lang=en'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=uae&category=*&year=*'>News</a></li><li><a href='http://taqaglobal.com/our-regions/uae/contact-us?sc_lang=en'>Contacts</a></li></ul>",
+        "description": "<p><strong>TAQA's headquarters are in Abu Dhabi.</strong></p><p>TAQA, through its majority ownership interests in eight UAE power and water production facilities, provides more than 98% of the electricity and water requirements of the Emirate of Abu Dhabi. </p><ul><li><a href='http://taqaglobal.com/our-regions/uae/overview?sc_lang=en' target='_top'>Overview</a></li><li><a href='http://taqaglobal.com/media-centre/press-releases?sc_lang=en&ac=1&region=uae&category=*&year=*' target='_top'>News</a></li><li><a href='http://taqaglobal.com/our-regions/uae/contact-us?sc_lang=en' target='_top'>Contacts</a></li></ul>",
         "type": "office",
         "image": "<img class='top-image' src='images/office-uae.jpg'>"
       },
