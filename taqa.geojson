@@ -6,7 +6,7 @@
       "properties": {
         "title": "Power Plant",
         "country": "Morocco",
-        "description": "<p>The Jorf Lasfar Power Plant supplies more than half of Morocco’s demand of electricity and 30% of the installed capacity. It is the largest independent coal-fired power station in the MENA region and the main supplier of the Office National de l'Electricité et de l'Eau Potable (ONEE).</p><ul><li><a href='http://taqaglobal.com/our-regions/morocco/power?sc_lang=en'>Find out more</a></li></ul>",
+        "description": "<p>The Jorf Lasfar Power Plant supplies more than half of Morocco’s demand of electricity and 30% of the installed capacity. It is the largest independent coal-fired power station in the MENA region and the main supplier of the Office National de l'Electricité et de l'Eau Potable (ONEE).</p><ul><li><a href='http://taqaglobal.com/our-regions/morocco/power?sc_lang=en' target='_top'>Find out more</a></li></ul>",
         "type": "power",
         "image": "<img class='top-image' src='images/power-morocco.jpg'>"
       },
